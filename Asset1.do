@@ -1,3 +1,5 @@
+*** Highest mean difference in stunting rate (weighted) between regions, with a caveat that the region includes at least 5% (weighted) of the total observations
+
 program define stunted
 clear
 
